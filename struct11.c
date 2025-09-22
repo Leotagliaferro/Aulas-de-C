@@ -17,7 +17,6 @@ int main () {
     printf("o valor do vetor 1 e: %d\n", numero.par[i]);
    }
 
-
-
     return 0;
 }
+
